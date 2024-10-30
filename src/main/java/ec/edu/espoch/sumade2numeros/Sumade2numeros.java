@@ -10,6 +10,8 @@ package ec.edu.espoch.sumade2numeros;
  */
 public class Sumade2numeros {
 
+    //Anthony Pulupa
+    
     public static void main(String[] args) {
        int num1=4;
          int num2=2;
